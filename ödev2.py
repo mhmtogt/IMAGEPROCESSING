@@ -15,7 +15,7 @@ def detect_red_object(frame):
     return result
 
 cap = cv2.VideoCapture(0)
-
+//bu bir python projesi
 while True:
     ret, frame = cap.read()
 
